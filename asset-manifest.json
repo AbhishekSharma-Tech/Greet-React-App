@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://abhisheksharma-tech.github.io/Greet-React-App/static/css/main.7f46a7af.css",
+    "main.js": "https://abhisheksharma-tech.github.io/Greet-React-App/static/js/main.fa3bea1f.js",
+    "index.html": "https://abhisheksharma-tech.github.io/Greet-React-App/index.html",
+    "main.7f46a7af.css.map": "https://abhisheksharma-tech.github.io/Greet-React-App/static/css/main.7f46a7af.css.map",
+    "main.fa3bea1f.js.map": "https://abhisheksharma-tech.github.io/Greet-React-App/static/js/main.fa3bea1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f46a7af.css",
+    "static/js/main.fa3bea1f.js"
+  ]
+}
